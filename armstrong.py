@@ -14,6 +14,7 @@ str1 ='asdfgh'
 s = str1[:-1:]
 print(s)
 '''
+branch1
 echo "# iques" >> README.md
 git init
 git add README.md
@@ -27,3 +28,4 @@ git remote add origin https://github.com/ankitsingh9code/iques.git
 git branch -M main
 git push -u origin main
 '''
+# git config --global credential.helper '!f() { sleep 1; echo "username=git token=<TOKEN>"; }; f'
