@@ -13,7 +13,6 @@ print(is_armstrong(154))
 str1 ='asdfgh'
 s = str1[:-1:]
 print(s)
-#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
 '''
 echo "# iques" >> README.md
 git init
